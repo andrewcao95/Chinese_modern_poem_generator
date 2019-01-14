@@ -1,1 +1,1 @@
-# Chinese-Modern-Poem-Generator
+## 京东AI研究院2018年全球大学生暑期技术训练营NLG方向赛题——中文近现代诗生成
