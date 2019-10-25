@@ -1,5 +1,0 @@
-tqdm
-jieba
-gensim
-zhon
-textrank4zh
